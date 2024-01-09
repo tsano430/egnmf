@@ -1,0 +1,8 @@
+# requirements.txt
+numpy==1.19.5
+scipy==1.5.0
+scikit-learn==0.24.1
+munkres==1.1.2
+pyitlib==0.2.2
+matplotlib==3.5.0
+cluster-ensembles @ git+https://github.com/tsano430/cluster-ensembles.git
